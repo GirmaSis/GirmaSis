@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GirmaSis/GirmaSis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,85 +13,74 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Girma Sisay Negashe 👋</h1>
+<h1 align="center">Hi, I'm Girma Sisay Negashe </h1>
 
 🎓 Researcher | Software Engineer | AI for Health Advocate  
-📍 Based in Gondar, Ethiopia | 🌐 Worked in 🇮🇹 🇩🇪 🇺🇸 🇨🇦  
-🔬 Specializing in Machine Learning, Computer Vision, Computational Biology, and Responsible AI
+🌍 Collaborated in Germany, Italy, Canada 
+🔬 Focus: AI, Machine Learning, Computer Vision, Computational Biology, and Responsible AI
 
 ---
 
-### 🧑‍💻 About Me
+### Experience
 
-I'm a multidisciplinary researcher and software engineer with 10+ years of experience. My work focuses on the intersection of artificial intelligence, medical imaging, and public interest technology. I've collaborated on international research projects at:
+- **Summer Trainee** | Mila - Quebec Artificial Intelligence Institute, ***Canada*** 
+- **Research Fellow** | International Centre for Genetic Engineering and Biotechnology, ***Italy***
+- **Research Assistant** | Max Planck Institute for Biological Cybernetics, ***Germany***
+- **Software Developer** | Center for Digital Health and Implementation Science, ***Ethiopia***
+- **SW Development Consultant** | HABTech Solutions PLC, ***Ethiopia***
+- **Researcher & Lecturer** | University of Gondar, ***Ethiopia*** 
 
-- 🧬 **ICGEB (Italy)** – Research Engineer in Computational Biology
-- 🧠 **Max Planck Institute (Germany)** – Visual Perception and Neuroscience
-- 🏥 **University of Gondar (Ethiopia)** – Lecturer & AI Researcher
-- 🇨🇦 **Mila Summer School** – Responsible AI & Human Rights Fellow (2025)
-
-I believe in using AI to solve real-world challenges — especially in global health, education, and human rights.
-
----
-
-### 💼 Current & Past Roles
-
-- 🔬 **Research Engineer**, ICGEB, Italy  
-- 🧠 **Research Assistant**, Max Planck Institute for Biological Cybernetics, Germany  
-- 💡 **Software Developer**, Center for Digital Health, Ethiopia  
-- 👨‍🏫 **Lecturer & Researcher**, University of Gondar, Ethiopia  
-- 🌍 **Project Member**, Online Safety Training for Female Students (Impact Amplifier)
 
 ---
 
-### ⚙️ Technical Skills
+### 🌐 International Programs
+
+- 🇨🇦 **Mila Summer School on Responsible AI & Human Rights**  
+  Quebec AI Institute, Canada (May 2025)  
+  _Focused on AI ethics, governance, bias & fairness_
+
+- 🇺🇸 **CVPR 2024 Conference**  
+  IEEE/CVF Computer Vision Conference, Seattle, USA
+
+- 🇲🇾 **Bioinformatics Workshop**  
+  Pathway Construction & Network Analysis, Malaysia (2024)
+
+- 🇮🇹 **Pre-doctorial Research Fellowship**  
+  International Centre for Genetic Engineering and Biotechnology, Italy (2024)
+  _Developed models for cancer cell evolution and population genetics research_
+
+- 🇩🇪 **CaCTüS Internship Program**  
+  Max Planck Institute for Biological Cybernetics, Germany (2023)
+  _Analyzed natural scene images to derive complex visual data insights_
+
+---
+
+### 🛠️ Skills
 
 **Languages**: Python, R, Java, JavaScript, PHP, SQL  
-**Frameworks**: PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV  
-**Web Development**: Laravel, WordPress, Bootstrap, HTML/CSS, REST APIs  
-**Tools**: Git, MySQL, VS Code, Jupyter, Google Colab  
-**Specialties**: Medical Image Analysis, AI for Healthcare, XAI, Research Software Engineering
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Laravel, OpenCV  
+**Tools**: Git, MySQL, WordPress, Jupyter, REST APIs  
+**Domains**: AI for Healthcare, Medical Imaging, Responsible AI
 
 ---
 
-### 🔍 Featured Projects
+### 📜 Certifications
 
-- 🧠 **Interpretable Brain Tumor MRI Classification**  
-  Residual CNN + Area Attention + Grad-CAM visualization for explainability
-
-- 🫁 **Lung Segmentation from Chest CT**  
-  A PyTorch Lightning-based 3D segmentation pipeline (.nii.gz medical data)
-
-- 🧬 **Cancer Mutation Modeling with MOBSTER**  
-  Evolutionary inference on tumor heterogeneity and subclonal selection
-
-- 🧒🏽 **Online Safety for Students**  
-  Curriculum design and tech training to empower female high school students in Ethiopia
-
-Explore all projects at 👉 [github.com/GirmaSis](https://github.com/GirmaSis)
+- Data Analysis with Python  
+- TensorFlow for AI, ML & DL  
+- AI Python Coding  
+- AWS Cloud Practitioner  
+- Big Data Engineer on Cloud  
 
 ---
 
-### 📚 Certifications
+### Connect with Me
 
-- 🧠 TensorFlow for AI, ML & DL  
-- 🧪 Data Analysis with Python  
-- ☁️ AWS Cloud Practitioner  
-- 🧮 AI Python Coding  
-- 🏆 Mastery Award  
-- 💻 Big Data Engineer on Cloud
-
----
-
-### 📬 Let's Connect
-
-- 🌐 [Personal Website](https://girma.codedesign.app/)  
-- 👔 [LinkedIn](https://linkedin.com/in/girma-negashe/)  
+- 🔗 [Personal Website](https://girma.codedesign.app/)  
+- 💼 [LinkedIn](https://linkedin.com/in/girma-negashe/)  
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=CEGtZ-YAAAAJ&hl=en)  
 - ✉️ [Email](mailto:sisaygirma97@gmail.com)
 
 ---
 
-_“I use technology to bridge gaps in healthcare, education, and society. Always open to collaboration!”_
-
----
+_"Committed to building ethical, impactful, and inclusive AI solutions."_  
