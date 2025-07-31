@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Girma Sisay Negashe </h1>
+<h1 align="center">Hi, I'm Girma Sisay Negashe 👋 </h1>
 
 🎓 Researcher | Software Engineer | AI for Health Advocate  
-🌍 Collaborated in Germany, Italy, Canada 
+🌍 Collaborated in Germany, Italy, Canada  
 🔬 Focus: AI, Machine Learning, Computer Vision, Computational Biology, and Responsible AI
 
 ---
@@ -50,22 +50,15 @@ Here are some ideas to get you started:
   _Developed models for cancer cell evolution and population genetics research_
 
 - 🇩🇪 **CaCTüS Internship Program**  
-  Max Planck Institute for Biological Cybernetics, Germany (2023)
+  Max Planck Institute for Biological Cybernetics, Germany (2023) 
   _Analyzed natural scene images to derive complex visual data insights_
 
 ---
 
 ### 🛠️ Skills
 
-### 🛠️ Skills
-
 **Programming & Scripting**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **AI & ML Frameworks**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
@@ -110,5 +103,3 @@ Here are some ideas to get you started:
 - ✉️ [Email](mailto:sisaygirma97@gmail.com)
 
 ---
-
-_"Committed to building ethical, impactful, and inclusive AI solutions."_  
