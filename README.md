@@ -89,3 +89,17 @@ Here are some ideas to get you started:
 - ✉️ [Email](mailto:sisaygirma97@gmail.com)
 
 ---
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GirmaSis&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 GitHub Stats
+
+![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirmaSis&show_icons=true&theme=default)
+
+### 🔥 GitHub Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GirmaSis&theme=default)](https://git.io/streak-stats)
+
+
