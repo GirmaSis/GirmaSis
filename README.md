@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GirmaSis&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GirmaSis&theme=gruvbox&title=Experience,Repositories,Commits,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 GitHub Stats
 
-![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirmaSis&show_icons=true&theme=default)
+![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirmaSis&show_icons=true&theme=default&hide=prs,issues,stars)
 
 ### 🔥 GitHub Contribution Streak
 
