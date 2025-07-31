@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 ---
 
+### About Me
+
+I'm a multidisciplinary researcher and software engineer with over 10+ years of experience. I hold an MSc in Computer Science, and my work focuses on the intersection of AI, medical imaging, and public interest technology. I’ve contributed to global projects, internships, summer schools, and fellowships in various countries.
+
+---
+
 ### Experience
 
 - **Summer Trainee** | Mila - Quebec Artificial Intelligence Institute, ***Canada*** 
@@ -71,17 +77,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📜 Certifications
-
-- Data Analysis with Python  
-- TensorFlow for AI, ML & DL  
-- AI Python Coding  
-- AWS Cloud Practitioner  
-- Big Data Engineer on Cloud  
-
----
-
-### Connect with Me
+### Connect with me
 
 - 🔗 [Personal Website](https://girma.codedesign.app/)  
 - 💼 [LinkedIn](https://linkedin.com/in/girma-negashe/)  
@@ -89,17 +85,5 @@ Here are some ideas to get you started:
 - ✉️ [Email](mailto:sisaygirma97@gmail.com)
 
 ---
-
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GirmaSis&theme=gruvbox&title=Experience,Repositories,Commits,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 GitHub Stats
-
-![Girma's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirmaSis&show_icons=true&theme=default&hide=prs,issues,stars)
-
-### 🔥 GitHub Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GirmaSis&theme=default)](https://git.io/streak-stats)
 
 
