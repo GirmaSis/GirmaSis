@@ -76,15 +76,15 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 
 ---
 ### CV and Certificates 
-- 📄 <a href="https://drive.google.com/file/d/1t10wyo3J6r-EAbEIXcUF3lB9gbSQKLga/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>  
-- 🎓 <a href="https://drive.google.com/file/d/1CepXtBgWEhmmkGd5y5FP3ly-fN8nFjWw/view" target="_blank" rel="noopener noreferrer">Certificates</a> 
+📄 [CV](https://drive.google.com/file/d/1t10wyo3J6r-EAbEIXcUF3lB9gbSQKLga/view?usp=sharing)
+🎓 [Certificates](https://drive.google.com/file/d/1CepXtBgWEhmmkGd5y5FP3ly-fN8nFjWw/view)
 
 ### Connect with me
 
-- 🔗 [Personal Website](https://girma.codedesign.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/girma-negashe/)  
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=CEGtZ-YAAAAJ&hl=en)  
-- ✉️ [Email](mailto:sisaygirma97@gmail.com)
+🔗 [Personal Website](https://girma.codedesign.app/)  
+💼 [LinkedIn](https://linkedin.com/in/girma-negashe/)  
+📄 [Google Scholar](https://scholar.google.com/citations?user=CEGtZ-YAAAAJ&hl=en)  
+✉️ [Email](mailto:sisaygirma97@gmail.com)
 
 ---
 
