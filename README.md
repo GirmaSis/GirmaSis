@@ -56,7 +56,7 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
   _Developed models for cancer cell evolution and population genetics research_
 
 - 🇩🇪 **CaCTüS Internship Program**  
-  Max Planck Institute for Biological Cybernetics, Germany (2023)
+  Max Planck Institute for Biological Cybernetics, Germany (2023) 
   _Analyzed natural scene images to derive complex visual data insights_
 
 ---
