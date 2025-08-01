@@ -52,11 +52,11 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
   Pathway Construction & Network Analysis, Malaysia (2024)
 
 - 🇮🇹 **Pre-doctorial Research Fellowship**  
-  International Centre for Genetic Engineering and Biotechnology, Italy (2024)
+  International Centre for Genetic Engineering and Biotechnology, Italy (2024) 
   _Developed models for cancer cell evolution and population genetics research_
 
 - 🇩🇪 **CaCTüS Internship Program**  
-  Max Planck Institute for Biological Cybernetics, Germany (2023) 
+  Max Planck Institute for Biological Cybernetics, Germany (2023)
   _Analyzed natural scene images to derive complex visual data insights_
 
 ---
