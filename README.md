@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 🌍 Collaborated in Ethiopia, Germany, Italy, Canada  
 🔬 Focus: AI, Machine Learning, Computer Vision, Computational Biology, and Responsible AI
 
----
+--
 
-### About Me
+### About me
 
 I'm a multidisciplinary researcher and software engineer with over 10+ years of experience. I hold an MSc in Computer Science, and my work focuses on the intersection of AI, medical imaging, and public interest technology. I’ve contributed to global projects, internships, summer schools, and fellowships in various countries.
 
----
+--
 
 ### Experience
 
@@ -36,10 +36,9 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 - **SW Development Consultant** | HABTech Solutions PLC, ***Ethiopia***
 - **Researcher & Lecturer** | University of Gondar, ***Ethiopia*** 
 
+--
 
----
-
-### 🌐 International Programs
+### 🌐 International programs
 
 - 🇨🇦 **Mila Summer School on Responsible AI & Human Rights**  
   Quebec AI Institute, Canada (May 2025)  
@@ -59,7 +58,7 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
   Max Planck Institute for Biological Cybernetics, Germany (2023)  
   _Analyzed natural scene images to derive complex visual data insights_
 
----
+--
 
 ### 🛠️ Skills
 
@@ -76,6 +75,9 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-6DB33F?style=flat)
 
 ---
+### CV and Certificates 
+- 🔗 [CV](https://drive.google.com/file/d/1t10wyo3J6r-EAbEIXcUF3lB9gbSQKLga/view?usp=sharing)  
+- 📄 [Certificates](https://drive.google.com/file/d/1CepXtBgWEhmmkGd5y5FP3ly-fN8nFjWw/view)  
 
 ### Connect with me
 
