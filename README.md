@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 🌍 Collaborated in Ethiopia, Germany, Italy, Canada  
 🔬 Focus: AI, Machine Learning, Computer Vision, Computational Biology, and Responsible AI
 
---
+---
 
 ### About me
 
 I'm a multidisciplinary researcher and software engineer with over 10+ years of experience. I hold an MSc in Computer Science, and my work focuses on the intersection of AI, medical imaging, and public interest technology. I’ve contributed to global projects, internships, summer schools, and fellowships in various countries.
 
---
+---
 
 ### Experience
 
@@ -36,7 +36,7 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 - **SW Development Consultant** | HABTech Solutions PLC, ***Ethiopia***
 - **Researcher & Lecturer** | University of Gondar, ***Ethiopia*** 
 
---
+---
 
 ### 🌐 International programs
 
@@ -58,7 +58,7 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
   Max Planck Institute for Biological Cybernetics, Germany (2023)  
   _Analyzed natural scene images to derive complex visual data insights_
 
---
+---
 
 ### 🛠️ Skills
 
