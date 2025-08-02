@@ -30,11 +30,11 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 ### Experience
 
 - **Summer Trainee** | [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en/ai-professional-development/summer-school-in-responsible-ai-and-human-rights), ***Canada*** 
-- **Research Fellow** | International Centre for Genetic Engineering and Biotechnology, ***Italy***
-- **Research Assistant** | Max Planck Institute for Biological Cybernetics, ***Germany***
-- **Software Developer** | Center for Digital Health and Implementation Science, ***Ethiopia***
-- **SW Development Consultant** | HABTech Solutions PLC, ***Ethiopia***
-- **Researcher & Lecturer** | University of Gondar, ***Ethiopia*** 
+- **Research Fellow** | [International Centre for Genetic Engineering and Biotechnology](https://www.icgeb.org/computational-biology/), ***Italy***
+- **Research Assistant** | [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/701943/cactues), ***Germany***
+- **Software Developer** | [Center for Digital Health and Implementation Science](https://cdhi.uog.edu.et/), ***Ethiopia***
+- **SW Development Consultant** | [HABTech Solutions PLC](https://www.habtechsolution.com/), ***Ethiopia***
+- **Researcher & Lecturer** | [University of Gondar](https://uog.edu.et/), ***Ethiopia*** 
 
 ---
 
