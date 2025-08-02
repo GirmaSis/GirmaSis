@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Girma Sisay Negashe 👋 </h1>
 
 🎓 Researcher | Software Engineer | AI for Health Advocate  
-🌍 Collaborated in Ethiopia, Germany, Italy, Canada  
+🌍 Collaborated in Ethiopia, Germany, Italy, and Canada  
 🔬 Focus: AI, Machine Learning, Computer Vision, Computational Biology, and Responsible AI
 
 ---
@@ -29,7 +29,7 @@ I'm a multidisciplinary researcher and software engineer with over 10+ years of 
 
 ### Experience
 
-- **Summer Trainee** | Mila - Quebec Artificial Intelligence Institute, ***Canada*** 
+- **Summer Trainee** | [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en/ai-professional-development/summer-school-in-responsible-ai-and-human-rights), ***Canada*** 
 - **Research Fellow** | International Centre for Genetic Engineering and Biotechnology, ***Italy***
 - **Research Assistant** | Max Planck Institute for Biological Cybernetics, ***Germany***
 - **Software Developer** | Center for Digital Health and Implementation Science, ***Ethiopia***
